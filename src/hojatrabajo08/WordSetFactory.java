@@ -19,6 +19,7 @@ public class WordSetFactory {
             4. TreeMap
         */
         
+        //Creacion de Set
         switch(opcionFactory){
             case 0: arbol = new SimpleSet(); break;
             //case 1: arbol = new RedBlackTree(); break;
